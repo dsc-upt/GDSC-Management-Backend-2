@@ -11,16 +11,12 @@
     <list default="true" id="2b467a1d-17eb-4257-8f3f-e267578c7880" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend-Management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Backend-Management/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend-Management/Backend-Management.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Backend-Management.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend-Management/obj/Backend-Management.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/Backend-Management.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend-Management/obj/Backend-Management.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/Backend-Management.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend-Management/obj/Backend-Management.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/Backend-Management.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend-Management/obj/Debug/net6.0/Backend-Management.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/Debug/net6.0/Backend-Management.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend-Management/obj/Debug/net6.0/Backend-Management.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/Debug/net6.0/Backend-Management.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Models/Entity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/Project.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Models/Project.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/Team.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Models/Team.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/UserProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Models/UserProfile.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend-Management/obj/Debug/net6.0/Backend-Management.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/Debug/net6.0/Backend-Management.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend-Management/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend-Management/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend-Management/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend-Management/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +24,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Backend-Management/Entity.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Backend-Management/Team.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Backend-Management/Models/Team.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Backend-Management/Models/Entity.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
