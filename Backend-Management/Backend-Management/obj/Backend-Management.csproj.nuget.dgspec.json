@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/user/Desktop/CS/gits/GDSC-Management-Backend-2/Backend-Management/Backend-Management/Backend-Management.csproj": {}
+    "D:\\Proiecte_C#\\Management\\GDSC-Management-Backend-2\\Backend-Management\\Backend-Management\\Backend-Management.csproj": {}
   },
   "projects": {
-    "/home/user/Desktop/CS/gits/GDSC-Management-Backend-2/Backend-Management/Backend-Management/Backend-Management.csproj": {
+    "D:\\Proiecte_C#\\Management\\GDSC-Management-Backend-2\\Backend-Management\\Backend-Management\\Backend-Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user/Desktop/CS/gits/GDSC-Management-Backend-2/Backend-Management/Backend-Management/Backend-Management.csproj",
+        "projectUniqueName": "D:\\Proiecte_C#\\Management\\GDSC-Management-Backend-2\\Backend-Management\\Backend-Management\\Backend-Management.csproj",
         "projectName": "Backend-Management",
-        "projectPath": "/home/user/Desktop/CS/gits/GDSC-Management-Backend-2/Backend-Management/Backend-Management/Backend-Management.csproj",
-        "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/home/user/Desktop/CS/gits/GDSC-Management-Backend-2/Backend-Management/Backend-Management/obj/",
+        "projectPath": "D:\\Proiecte_C#\\Management\\GDSC-Management-Backend-2\\Backend-Management\\Backend-Management\\Backend-Management.csproj",
+        "packagesPath": "C:\\Users\\ffabi\\.nuget\\packages\\",
+        "outputPath": "D:\\Proiecte_C#\\Management\\GDSC-Management-Backend-2\\Backend-Management\\Backend-Management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/user/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ffabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +40,26 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.ApiDescription.Server": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -61,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

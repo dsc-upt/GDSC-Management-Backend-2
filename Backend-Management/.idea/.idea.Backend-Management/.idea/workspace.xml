@@ -4,18 +4,36 @@
     <projectFile profileName="Backend_Management">Backend-Management/Backend-Management.csproj</projectFile>
     <projectFile profileName="IIS Express">Backend-Management/Backend-Management.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b467a1d-17eb-4257-8f3f-e267578c7880" name="Changes" comment="" />
+    <list default="true" id="2b467a1d-17eb-4257-8f3f-e267578c7880" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend-Management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Backend-Management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/Backend-Management.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Backend-Management.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Models/Entity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/Project.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Models/Project.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/Team.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Models/Team.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/UserProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/Models/UserProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend-Management/obj/Debug/net6.0/Backend-Management.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Backend-Management/obj/Debug/net6.0/Backend-Management.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Backend-Management/Models/Team.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Backend-Management/Models/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="22HvmIbczOO9YKgmk5f7XztsNlj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +42,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Backend-Management: Backend_Management">
@@ -68,6 +90,7 @@
       <updated>1639507491660</updated>
       <workItem from="1639507504438" duration="60000" />
       <workItem from="1639507638247" duration="5000" />
+      <workItem from="1639508053994" duration="2675000" />
     </task>
     <servers />
   </component>
