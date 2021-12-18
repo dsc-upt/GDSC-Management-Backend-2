@@ -1,9 +1,11 @@
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace Backend_Management.Models;
 
 public abstract class Entity
 {
-    protected string Id { get; set; }
-    protected DateTime Created { get; set; }
-    protected DateTime Updated { get; set; }
-    
+    public string Id { get; set; }
+    public DateTime Created { get; set; } = DateTime.Now;
+    public DateTime Updated { get; set; }
 }

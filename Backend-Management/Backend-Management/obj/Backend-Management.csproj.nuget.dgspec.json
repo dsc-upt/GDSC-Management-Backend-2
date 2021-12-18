@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proiecte_C#\\Management\\GDSC-Management-Backend-2\\Backend-Management\\Backend-Management\\Backend-Management.csproj": {}
+    "/home/user/Desktop/CS/gits/GDSC-Management-Backend-2/Backend-Management/Backend-Management/Backend-Management.csproj": {}
   },
   "projects": {
-    "D:\\Proiecte_C#\\Management\\GDSC-Management-Backend-2\\Backend-Management\\Backend-Management\\Backend-Management.csproj": {
+    "/home/user/Desktop/CS/gits/GDSC-Management-Backend-2/Backend-Management/Backend-Management/Backend-Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proiecte_C#\\Management\\GDSC-Management-Backend-2\\Backend-Management\\Backend-Management\\Backend-Management.csproj",
+        "projectUniqueName": "/home/user/Desktop/CS/gits/GDSC-Management-Backend-2/Backend-Management/Backend-Management/Backend-Management.csproj",
         "projectName": "Backend-Management",
-        "projectPath": "D:\\Proiecte_C#\\Management\\GDSC-Management-Backend-2\\Backend-Management\\Backend-Management\\Backend-Management.csproj",
-        "packagesPath": "C:\\Users\\ffabi\\.nuget\\packages\\",
-        "outputPath": "D:\\Proiecte_C#\\Management\\GDSC-Management-Backend-2\\Backend-Management\\Backend-Management\\obj\\",
+        "projectPath": "/home/user/Desktop/CS/gits/GDSC-Management-Backend-2/Backend-Management/Backend-Management/Backend-Management.csproj",
+        "packagesPath": "/home/user/.nuget/packages/",
+        "outputPath": "/home/user/Desktop/CS/gits/GDSC-Management-Backend-2/Backend-Management/Backend-Management/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ffabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/user/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -83,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
