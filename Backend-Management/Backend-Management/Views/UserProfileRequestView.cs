@@ -1,7 +1,8 @@
 using System.ComponentModel.DataAnnotations;
-namespace Backend_Management.Models;
+using Backend_Management.Models;
+namespace Backend_Management.Views;
 
-public class UserProfile : Entity
+public class UserProfileRequestView
 {
     [Required]
     public User User { get; set; }

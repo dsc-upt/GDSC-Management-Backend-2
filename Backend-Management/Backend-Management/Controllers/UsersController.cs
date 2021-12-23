@@ -30,5 +30,10 @@ public class UsersController : ControllerBase
         await _dbContext.SaveChangesAsync();
         return result.Entity;
     }
-    
+
+    // [HttpGet]
+    // public async Task<User> GetUsers()
+    // {
+    //     
+    // }
 }
