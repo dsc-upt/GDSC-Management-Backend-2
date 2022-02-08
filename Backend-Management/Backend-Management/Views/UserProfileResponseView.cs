@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 using Backend_Management.Models;
 namespace Backend_Management.Views;
 
-public class UserProfileResponseView
+public class UserProfileResponseView 
 {
     private string Id { get; set; }
     [Required]
