@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Backend_Management.Models;
+using Backend_Management.Views;
 using Microsoft.EntityFrameworkCore.Internal;
 
 namespace Backend_Management.Database;
